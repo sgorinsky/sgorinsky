@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sgorinsky
 - 👀 I’m interested in building applications
-- 🌱 I’m currently a data science student...
-- 💞️ Happy to collaborate on a project
+- 🌱 Currently a data science student
+- 💞️ Happy to collaborate on any sort of project
 - 📫 To get in touch, please email
 
 <!---
