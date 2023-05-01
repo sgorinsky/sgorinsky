@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sgorinsky
 - 👀 I like building stuff
-- 🌱 Data science student
+- 🌱 Data science grad
 - 💞️ Happy to collaborate
 - 📫 To get in touch, email!
 
